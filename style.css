@@ -1,100 +1,11 @@
+/**
+ * Theme Name: Ian McD application Child
+ * Description: Part of WG job application. Based on aa's child theme.
+ * Template: twentyfifteen
+ * Version: 1.0.0
+ * @package aa
+ */
 
-div.header {
-	background: #00698f;
-	min-height: 12em;
-	color: white;
-	padding: 1em 4em 1em 4em;
-}
-
-div.top {
-	max-height: 4em;
-}
-
-img.logo {
-	float: left;
-	height: 2em;
-}
-
-span#menu {
-	float: right;
-	font-size: 2em;
-}
-
-h1 {
-	font-size: xx-large;
-	font-weight: lighter;
-	font-family: Arial, sans-serif;
-	float: right;
-	padding-top: 2em;
-	width: 60%;
-}
-
-h2 {
-	font-size: large;
-	font-weight: lighter;
-	font-family: Arial, sans-serif;
-}
-
-div.content h1 {
-	width: 60%;
-	float: left;
-	text-align: left;
-}
-
-div.header h1 {
-	clear: both;
-	float: right;
-	text-align: right;
-}
-
-div.triangle {
-	background: #00698f;
-}
-
-div.triangle img {
-	padding: 0px;
-	width: 100%;
-}
-
-div.content {
-	background: white;
-	color: #00698f;
-	padding: 1em 4em 1em 4em;
-}
-
-p.text {
-	clear: both;
-}
-
-div.columns {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	align-items: flex-start;
-}
-
-div.column {
-	width: 30%;
-	align-self: flex-start;
-
-}
-
-.button {
-	display: inline;
-	color: white;
-	background: #00698f;
-	padding: 0.5em;
-	border: 1em #00698f;
-}
-
-
-div.column img {
-	width: 100%;
-	height: 10em;
-	object-fit: cover;
-	vertical-align: top;
-}
-
-p {
-	font-family: Arial, Sans-serif;
-}
+/* ----------------------------------------------------------------------------
+ * Child Theme Style.css styles would be here.
+ * ------------------------------------------------------------------------- */
