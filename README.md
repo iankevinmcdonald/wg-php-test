@@ -12,6 +12,8 @@ Back end
 
 See 'wg_test' (which is a child theme of twentyfifteen, as I thought that was the best way to show the code)
 
+(NB: If the WordPress URL option is set as 'plain', then the Wordpress REST API at `wp-json/wp/v2/wg_recipes/` is not exposed. This seems to be a bug in WordPress.)
+
 General Questions
 =================
 
