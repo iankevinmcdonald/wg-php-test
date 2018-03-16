@@ -2,15 +2,18 @@
 
 WG Coding Test
 
-=Front End=
+Front End
+=========
 
 See 'front' directory.
 
-=Back end=
+Back end
+========
 
 See 'wg_test' (which is a child theme of twentyfifteen, as I thought that was the best way to show the code)
 
-=General Questions=
+General Questions
+=================
 
 1. What do I think many websites do wrong?
 
